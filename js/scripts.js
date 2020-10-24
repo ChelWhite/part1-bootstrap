@@ -26,6 +26,6 @@ $(function () {
 
 $(function () {
     $("#loginButton").click(function () {
-        $("#reserveModal").modal("show");
+        $("#loginModal").modal("show");
     });
 });
